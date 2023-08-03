@@ -1,0 +1,18 @@
+[
+    {
+        "name": "jack",
+        "age": 25,
+       "skill": "nodejs",
+    },
+    {
+        "name": "part",
+        "age": 23,
+        "skill": "mongodb",
+     },
+     {
+        "name": "ram",
+        "age": 20,
+        "skill": "javascript",
+       }
+    ]
+     
